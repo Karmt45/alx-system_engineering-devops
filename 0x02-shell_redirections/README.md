@@ -1,2 +1,3 @@
-#!bin/bash
-a script that print "Hello, World”
+#!/bin/bash
+a script that prints"Hello, World”
+
