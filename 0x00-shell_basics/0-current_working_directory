@@ -1,2 +1,2 @@
-#!/bin/bash
-where am i
+#!/bash/bin
+Write a script that prints the absolute path name of the current working directory wher
