@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(prinf $PATH |tr ":" "\n"|wc -w)
+echo $PATH=/bin::::/home:/usr:::::/home/me
